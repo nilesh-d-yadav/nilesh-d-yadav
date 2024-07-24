@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilesh-d-yadav&label=Profile%20views&color=0e75b6&style=flat" alt="nilesh-d-yadav" /> </p>
 
-- 🌱 I’m currently learning **Python Development**
+- 🌱 I’m currently learning **MERN Development**
 
-- 💬 Ask me about **Python, C++, Javascript**
+- 💬 Ask me about **ReactJs,Python, C++, Javascript**
 
 - 📫 How to reach me **nileshy152@gmail.com**
 
